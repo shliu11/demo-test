@@ -59,3 +59,11 @@ idea配置github
 提交代码：git->add->commit->push
 
 如果只能看到主分支看不到其他分支： 工具栏-git-fetch
+
+
+合并到主分支：github网页操作：
+    点击顶部的Pull requests选项卡，然后点击New pull request按钮。
+    在Compare changes页面：
+    base选择main（目标分支）。
+    compare选择dev（源分支）。
+    系统会自动检查是否可自动合并（无冲突）。
