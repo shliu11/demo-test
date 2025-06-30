@@ -58,4 +58,4 @@ idea配置github
 
 提交代码：git->add->commit->push
 
-如果只能看到主分支看不到其他分支： 工具窗口-git-fetch
+如果只能看到主分支看不到其他分支： 工具栏-git-fetch
