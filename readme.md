@@ -57,3 +57,5 @@ idea配置github
 更新代码：使用Git > Pull获取最新提交
 
 提交代码：git->add->commit->push
+
+如果只能看到主分支看不到其他分支： 工具栏-git-fetch
