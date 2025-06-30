@@ -55,3 +55,5 @@ idea配置github
 分支管理：拉取后可通过Git > Branches切换分支。
 
 更新代码：使用Git > Pull获取最新提交
+
+提交代码：git->add->commit->push
